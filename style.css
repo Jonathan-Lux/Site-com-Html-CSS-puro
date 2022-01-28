@@ -28,21 +28,12 @@
 }
 
 ul li {
-  margin: 1rem;
+  margin: 2rem;
+  cursor: pointer;
 }
 
 #logo {
   height: 8vh;
-}
-
-.menu ul li:hover {
-  padding: 1rem;
-  background-color: white;
-  border: 1px solid white;
-  color: black;
-  border-radius: 8px;
-  border: none;
-  width: auto;
 }
 
 header .menu #ativo {
